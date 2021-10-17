@@ -1,0 +1,155 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     1363 MB
+    Driver:   27.20.11028.10001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.585600 ms
+D3D11: Failed to create RenderTexture (1920 x 1080 fmt 19 aa 2), error 0x8007000e
+ 
+(Filename:  Line: 394)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\hendrik\Documents\flappy bird;C:\Users\hendrik\Documents\flappy bird;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'hendrik'
+OS-Version: 10.0.19043 () 0x300-0x1
+C:\Users\hendrik\Documents\flappy bird\flappy bird.exe:flappy bird.exe (00420000), size: 19038208 (result: 0), SymType: '-exported-', PDB: 'C:\Users\hendrik\Documents\flappy bird\flappy bird.exe', fileVersion: 5.6.7.3267
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (76F00000), size: 1716224 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1288
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (75A20000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.19041.1202
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (74F30000), size: 2183168 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.19041.1288
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (6F880000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\apphelp.dll', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\USER32.dll:USER32.dll (75850000), size: 1703936 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.19041.1288
+C:\WINDOWS\System32\win32u.dll:win32u.dll (75EA0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.19041.1288
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (759F0000), size: 147456 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (76620000), size: 901120 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.19041.1110
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (762A0000), size: 503808 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (76CB0000), size: 1179648 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (75F30000), size: 929792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (763C0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.19041.1288
+C:\WINDOWS\System32\combase.dll:combase.dll (75BB0000), size: 2625536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.19041.1288
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (76EA0000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (76BF0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (76E20000), size: 499712 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\sechost.dll:sechost.dll (760B0000), size: 479232 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (75150000), size: 5976064 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.19041.1266
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (75EC0000), size: 405504 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (75B10000), size: 614400 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (765F0000), size: 151552 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (70590000), size: 40960 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (743D0000), size: 32768 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (6F300000), size: 163840 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (6F3B0000), size: 1060864 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.19041.1081
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (741F0000), size: 593920 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.19041.1266
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (73E20000), size: 819200 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.19041.1151
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (744D0000), size: 204800 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (6FA50000), size: 258048 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.19041.1081
+C:\WINDOWS\System32\NSI.dll:NSI.dll (75840000), size: 28672 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.19041.610
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74370000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76480000), size: 389120 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (6DF30000), size: 475136 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.19041.1266
+C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Users\hendrik\Documents\flappy bird\flappy bird_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (764E0000), size: 24576 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (74290000), size: 335872 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\shcore.dll:shcore.dll (75790000), size: 552960 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.19041.1266
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (761C0000), size: 864256 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (68070000), size: 1966080 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (68250000), size: 798720 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.19041.1266
+C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\aticfx32.dll:aticfx32.dll (67290000), size: 1589248 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\aticfx32.dll', fileVersion: 27.20.11028.10001
+C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\atiuxpag.dll:atiuxpag.dll (67AA0000), size: 188416 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\atiuxpag.dll', fileVersion: 27.20.11028.10001
+C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\atidxx32.dll:atidxx32.dll (65190000), size: 22294528 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\u0361437.inf_amd64_b82dc71fab24f1f3\B361368\atidxx32.dll', fileVersion: 27.20.11028.10001
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (767B0000), size: 4440064 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.19041.1237
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (76380000), size: 241664 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 10.0.19041.1151
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (75770000), size: 102400 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\bcrypt.dll', fileVersion: 10.0.19041.1023
+C:\WINDOWS\SYSTEM32\amdihk32.dll:amdihk32.dll (67A70000), size: 155648 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\amdihk32.dll', fileVersion: 2.0.0.1788
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (67A40000), size: 180224 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\dxcore.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (746A0000), size: 6324224 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 10.0.19041.1266
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (74670000), size: 147456 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\Wldp.dll', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\D3DSCache.dll:D3DSCache.dll (67900000), size: 131072 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\D3DSCache.dll', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (74D20000), size: 151552 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 10.0.19041.572
+C:\WINDOWS\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (6FE00000), size: 1634304 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\twinapi.appcore.dll', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (76130000), size: 516096 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (71F30000), size: 53248 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\wbem\wbemprox.dll', fileVersion: 10.0.19041.1081
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (71EB0000), size: 466944 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.19041.1081
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (70AC0000), size: 65536 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\wbem\wbemsvc.dll', fileVersion: 10.0.19041.1081
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (709F0000), size: 823296 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\wbem\fastprox.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (709D0000), size: 73728 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\amsi.dll', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (74650000), size: 98304 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 10.0.19041.844
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2109.6-0\X86\MpOav.dll:MpOav.dll (70960000), size: 438272 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 4.18.2109.6
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (694F0000), size: 438272 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (70930000), size: 176128 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1151
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (707C0000), size: 118784 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (6EF30000), size: 237568 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (70580000), size: 28672 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (6F9A0000), size: 32768 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6E8E0000), size: 1269760 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.19041.1023
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (6DFE0000), size: 278528 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (707B0000), size: 53248 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\UMPDC.dll'
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (6F920000), size: 40960 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 10.0.19041.488
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (6F340000), size: 102400 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (6F330000), size: 32768 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 10.0.19041.488
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (6EF20000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll:comctl32.dll (6F5F0000), size: 2162688 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll', fileVersion: 6.10.19041.1110
+C:\WINDOWS\SYSTEM32\TextShaping.dll:TextShaping.dll (67840000), size: 606208 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\TextShaping.dll'
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (67DF0000), size: 757760 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (67B70000), size: 2613248 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\CoreUIComponents.dll', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (67AD0000), size: 634880 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\CoreMessaging.dll', fileVersion: 10.0.19041.867
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (72020000), size: 167936 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (6FD20000), size: 897024 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.19041.1202
+C:\WINDOWS\SYSTEM32\xinput9_1_0.dll:xinput9_1_0.dll (6EE70000), size: 28672 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\xinput9_1_0.dll', fileVersion: 10.0.19041.1
+C:\Program Files (x86)\Internet Download Manager\idmmkb.dll:idmmkb.dll (67EB0000), size: 32768 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Program Files (x86)\Internet Download Manager\idmmkb.dll', fileVersion: 6.37.8.1
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (6E120000), size: 155648 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (71E00000), size: 77824 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.19041.546
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 659479BC)
+0x659479BC (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 65947954)
+0x65947954 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 65947794)
+0x65947794 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 659725B1)
+0x659725B1 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 6597B420)
+0x6597B420 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 6597AF32)
+0x6597AF32 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 651C0CCC)
+0x651C0CCC (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 651A084D)
+0x651A084D (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 658D6D09)
+0x658D6D09 (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 658E3D0B)
+0x658E3D0B (atidxx32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 65A47ADD)
+0x65A47ADD (atidxx32) 
+0x75A3FA29 (KERNEL32) BaseThreadInitThunk
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not be found.' (Address: 76F67A9E)
+  ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic link library (DLL) initialization routine failed.' (Address: 76F67A9E)
+0x76F67A9E ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not be found.' (Address: 76F67A6E)
+  ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic link library (DLL) initialization routine failed.' (Address: 76F67A6E)
+0x76F67A6E ((<unknown>)) 
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
